@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">hw04_MovieApp</string>
+    <string name="bt_add">Add Movie</string>
+    <string name="bt_edit">Edit</string>
+    <string name="bt_delete">Delete</string>
+    <string name="bt_year">Show List By Year</string>
+    <string name="bt_rating">Show List By Rating</string>
+</resources>
